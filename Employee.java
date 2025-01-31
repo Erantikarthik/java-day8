@@ -39,5 +39,4 @@ public class Employee {
 	public void setMobile(int mobile) {
 		Mobile = mobile;
 	}
-
 }
